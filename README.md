@@ -4,12 +4,12 @@
 
 #Setup Command 
 
-```1. ```git clone https://github.com/nightmareJibonhacker/User-agent-generator.git```
+```1. git clone https://github.com/nightmareJibonhacker/User-agent-generator.git```
 
-2. pip install -r requirements.txt
+```2. pip install -r requirements.txt```
 
-3. chmod +x setup.sh
+```3. chmod +x setup.sh```
 
-4. bash setup.sh
+```4. bash setup.sh```
 
-5. python main.py```
+```5. python main.py```
